@@ -1,0 +1,1 @@
+This is ReaDme file for my python learning project, feel free to comment or reuse it as u wish. 
